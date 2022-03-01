@@ -1,0 +1,25 @@
+{
+  "name": "sti-frontend",
+  "version": "1.0.0",
+  "description": "STI Frontend App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hedesand/sti-frontend.git"
+  },
+  "author": "gabriella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hedesand/sti-frontend.git"
+  },
+  "homepage": "https://github.com/Hedesand/sti-frontend.git#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "healthcheck": "^0.1.3",
+    "path": "^0.12.7",
+    "serve-favicon": "^2.5.0"
+  }
+}
