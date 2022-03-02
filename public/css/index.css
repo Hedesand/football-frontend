@@ -1,10 +1,11 @@
 body {
     background-color: rgb(228, 220, 200);
-    align-items: center;
+    
 
 }
 
 img.tableLogo{
     max-width: 20px;
+    align-items: center;
  }
 
