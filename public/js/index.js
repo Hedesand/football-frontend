@@ -36,7 +36,7 @@ function createTable(data){
 
     let aHeader = document.createElement("h1")
     aHeader.id = "user"
-    aHeader.innerHTML = "Welcome " + user + "!"
+    aHeader.innerHTML = "Super duper table!"
     appElement.appendChild(aHeader)
 
     let aTable = document.createElement("table")
