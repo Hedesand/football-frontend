@@ -1,7 +1,6 @@
 var tableData = [
-
-    {name:"DIF", points:9}
-    ,{name:"AIK", points:2}
+    {name:"AIK", points:9}
+    ,{name:"DIF", points:6}
     ,{name:"BP", points:5}
     ,{name:"HSK", points:3}
 ]
