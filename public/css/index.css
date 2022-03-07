@@ -3,6 +3,7 @@
 body {
     background-color: rgb(228, 220, 200);
     font-family: 'Armata', sans-serif;
+    align-items: center;
 }
 
 img.tableLogo{
