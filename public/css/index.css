@@ -9,11 +9,6 @@ body {
 
 img.tableLogo{
     max-width: 50px;
- }
-
- #table {
-    margin: auto;  
-    width: 50%;
-    padding-left: 50%;
+    margin-left: 50%;
  }
 
