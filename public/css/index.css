@@ -5,10 +5,10 @@ body {
     font-family: 'Armata', sans-serif;
     text-align: center;
     margin-top: 3em;
+    justify-content: center;
 }
 
 img.tableLogo{
     max-width: 50px;
-    align-content: center;
  }
 
