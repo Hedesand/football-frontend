@@ -1,8 +1,8 @@
 var tableData = [
-    {name:"AIK", points:9}
-    ,{name:"DIF", points:6}
+    {name:"DIF", points:9}
     ,{name:"BP", points:5}
     ,{name:"HSK", points:3}
+    ,{name:"AIK", points:2}
 ]
 tableData = JSON.stringify(tableData)
 console.log(tableData)
