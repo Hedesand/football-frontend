@@ -1,7 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Armata&display=swap');
+
 body {
     background-color: rgb(228, 220, 200);
-    
-
+    font-family: 'Armata', sans-serif;
 }
 
 img.tableLogo{
