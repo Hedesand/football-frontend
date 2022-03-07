@@ -8,8 +8,5 @@ body {
 }
 
 img.tableLogo{
-    margin-top: 3em;
     max-width: 50px;
-    margin-left: 50%;
-    align-items: center;
  }
