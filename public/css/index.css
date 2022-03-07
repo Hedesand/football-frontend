@@ -13,5 +13,5 @@ img.tableLogo{
  }
 
  #app {
-     align-items: center;
+     table-layout: center;
  }
