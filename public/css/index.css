@@ -6,12 +6,12 @@ body {
     text-align: center;
     margin-top: 3em;
     justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 img.tableLogo{
     max-width: 50px;
-    align-items: center;
-    height: 100vh;
 
  }
 
