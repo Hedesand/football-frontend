@@ -12,7 +12,8 @@ img.tableLogo{
  }
 
  .app {
-     align-content: center;
+    display: flex;
+    align-items: center;
 
  }
 
